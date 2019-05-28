@@ -1,6 +1,6 @@
 using System;
 
-namespace Aprendendo_.Net.Models
+namespace Aprendendo_.Net.Models.ViewModels
 {
     public class ErrorViewModel
     {

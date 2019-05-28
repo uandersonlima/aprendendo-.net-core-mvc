@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Aprendendo_.Net.Models;
+using Aprendendo_.Net.Models.ViewModels;
 
 namespace Aprendendo_.Net.Controllers
 {
